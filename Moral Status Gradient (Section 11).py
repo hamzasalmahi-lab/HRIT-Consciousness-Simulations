@@ -68,3 +68,4 @@ ax.grid(alpha=0.2, linestyle='--')
 plt.tight_layout()
 plt.savefig('Moral_Status_Gradient.png', dpi=150, bbox_inches='tight', facecolor='white')
 plt.show()
+
