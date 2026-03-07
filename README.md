@@ -20,9 +20,11 @@ Installation & Usage
 To run these simulations, you will need Python 3.x and the following libraries:
 
 Bash
+
 pip install numpy matplotlib scipy
 
 Simply run any script to generate the corresponding figure from the paper:
 
 Bash
+
 python "The VPM Principle (Early Warning Simulation).py"
