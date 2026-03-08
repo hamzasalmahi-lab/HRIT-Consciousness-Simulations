@@ -38,7 +38,7 @@ To reproduce the specific figures from the HRIT manuscript, run the correspondin
 
 
 ### 4. Developmental & State Profiles
-**Files:** `RDI × RSI Developmental Trajectory.py`, `Figure 7 — Sleep Stage Consciousness Profile.py`
+**Files:** `RDI × RSI Developmental Trajectory.py`, `Sleep Stage Consciousness Profile.py`
 
 ---
 
